@@ -1,0 +1,17 @@
+1.What is a recent data-driven decision that had a major impact on the company, and what role did analytics play in making it?
+
+That’s really interesting! It’s great to see how data played a key role in that decision and had such a measurable impact on the business.
+
+I actually worked on something similar at HCA Healthcare, where we used predictive analytics to reduce patient readmission rates. By analyzing historical data, we identified key risk factors and built models that helped improve intervention strategies. That led to a measurable reduction in readmissions.
+
+For Rock Island Auction Company, I see a lot of opportunities to apply similar data-driven strategies, especially in areas like bidder behavior analysis, optimizing auction timing, or even using AI/ML for personalized recommendations. I believe similar data-driven strategies could bring great value to Rock Island Auction Company, helping optimize operations and enhance customer engagement
+
+2. What do you enjoy most about working at Rock Island Auction Company, and how would you describe the company’s culture?
+
+That’s great to hear! I really appreciate a company that values innovation and data-driven decision-making. It sounds like an exciting environment where I could contribute my skills and grow alongside the team.
+
+3. What are the biggest challenges the IT team faces in handling auction data, and how can a Data Analyst help address them?
+
+THANK YOU NOTE
+
+Thank you for your time today! I enjoyed learning about Rock Island Auction Company and am excited about the opportunity to contribute to your team. I look forward to hearing from you!
