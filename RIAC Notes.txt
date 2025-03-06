@@ -1,0 +1,10 @@
+--ABOUT RIAC
+
+Rock Island Auction Company is the world’s leading auction house specializing in antique and collectible firearms, edged weapons, and military artifacts. Founded in 1993, the company has built a reputation for record-breaking sales and industry expertise. RIAC hosts multiple auctions annually, including premier and regional events, at its state-of-the-art facility in Rock Island, Illinois. Known for its high sales rate and extensive marketing efforts, the company has become a trusted name among collectors, investors, and firearms enthusiasts.
+
+--How do you Analyze auction data to identify trends?
+
+Data Collection & Preparation
+Extract auction data from multiple sources (e.g., bidding logs, product catalogs, customer profiles).
+Clean and preprocess data by handling missing values, duplicate bids, and incorrect timestamps.
+Standardize bidding timestamps to ensure consistency in time-based analysis.
